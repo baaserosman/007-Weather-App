@@ -18,7 +18,7 @@ At the end of the this project, students will be able to;
 - Design a weather condition page  and populate data for searched city with using of axios in JS.
 
 
-<<<<<<< HEAD
+
 [Form](weather_app.gif)
 =======
 >>>>>>> caee1378ea235ced88731dd6c0c09cf6e5b16475
