@@ -19,10 +19,6 @@ At the end of the this project, students will be able to;
 
 
 
-
-=======
->>>>>>> caee1378ea235ced88731dd6c0c09cf6e5b16475
-
 User story;
 
   - User can search city around the world.
